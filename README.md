@@ -5,7 +5,8 @@ This project presents a comprehensive approach to classifying YouTube videos int
 # Project Structure
 The project is organized into several Jupyter Notebook files, each serving a unique purpose in the development and evaluation of the models:
 
-1. DataScraping.ipynb: This notebook outlines the process of data collection using the YouTube API. It involves scraping URLs and relevant data from YouTube videos and manually labeling each video into one of the predefined categories.
+## 1. DataScraping.ipynb: 
+This notebook outlines the process of data collection using the YouTube API. It involves scraping URLs and relevant data from YouTube videos and manually labeling each video into one of the predefined categories.
 
 2. data_analysis_and_visualisation.ipynb: This file focuses on the data analysis and visualization aspect, providing insights into the dataset. It includes plots and charts showcasing various parameters like views, likes, and the number of comments across different categories.
 
