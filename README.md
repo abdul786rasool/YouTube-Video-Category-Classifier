@@ -25,16 +25,24 @@ This notebook represents the culmination of the project, where an ensemble metho
 
 # Key Features
 • Comprehensive data scraping and labeling process 
+
 • In-depth data analysis and visualization
+
 • Multiple classification models including Naive Bayes, Vanilla Neural Network, and BERT
+
 • Ensemble method for improved prediction accuracy
 
 • Direct category prediction from YouTube URLs
+
 # Technologies Used
 • Python
+
 • YouTube API
+
 • Jupyter Notebook
+
 • Libraries: Pandas, NumPy, Matplotlib, TensorFlow, Hugging Face Transformers, etc.
+
 # Usage
 The project can be utilized by researchers, data scientists, and enthusiasts interested in video content categorization, machine learning model comparisons, or ensemble method implementations. The 'Final_Ensemble_Model.ipynb' is the go-to file for directly classifying YouTube videos into categories.
 
