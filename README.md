@@ -24,10 +24,11 @@ The third model elevates the classification strategy by fine-tuning a BERT model
 This notebook represents the culmination of the project, where an ensemble method combines the strengths of the previous three models. This final model can classify YouTube video categories directly from URLs, integrating all necessary components and files for ease of use.
 
 # Key Features
-• Comprehensive data scraping and labeling process
+• Comprehensive data scraping and labeling process 
 • In-depth data analysis and visualization
 • Multiple classification models including Naive Bayes, Vanilla Neural Network, and BERT
 • Ensemble method for improved prediction accuracy
+
 • Direct category prediction from YouTube URLs
 # Technologies Used
 • Python
