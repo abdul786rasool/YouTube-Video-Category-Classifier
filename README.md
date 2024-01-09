@@ -1,4 +1,4 @@
-You can find all the files along with model_2 which is not uoloaded here on drive: https://drive.google.com/drive/folders/1IDXi8KNncvMdI95WCt4AVcGFlcNlSsqD?usp=sharing
+You can find all the files along with model_2 which is not uploaded here on drive: https://drive.google.com/drive/folders/1IDXi8KNncvMdI95WCt4AVcGFlcNlSsqD?usp=sharing
 
 # YouTube-Video-Category-Classifier
 
