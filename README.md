@@ -1,3 +1,5 @@
+You can find all the files along with model_2 which is not uoloaded here on drive: https://drive.google.com/drive/folders/1IDXi8KNncvMdI95WCt4AVcGFlcNlSsqD?usp=sharing
+
 # YouTube-Video-Category-Classifier
 
 This project presents a comprehensive approach to classifying YouTube videos into eight distinct categories: Music, Sports, Gaming, Education, Film/Animation, Entertainment, News & Politics, and Comedy. This classification is primarily based on the video descriptions. Utilizing various machine learning techniques and models, this repository offers a deep dive into the realm of video categorization.
